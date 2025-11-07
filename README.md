@@ -1,9 +1,13 @@
 # Machine Learning - Home Assignment 4
 
 **Course:** CS5710 Machine Learning
+
 **Institution:** University of Central Missouri
+
 **Student Name:** SAI SRAVAN CHINTALA 
+
 **Student ID:** 700773836
+
 **Semester:** Fall 2025
 
 ---
